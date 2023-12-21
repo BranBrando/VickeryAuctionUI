@@ -1,0 +1,27 @@
+{
+    "erc721Contracts": [
+      {
+        "contractName": "Test721",
+        "contractAddress": "737BE1f09742664b859Fe095a8de7DdF890fe079",
+        "tokenSymbol": "TEST"
+      },
+      {
+        "contractName": "Test721",
+        "contractAddress": "737BE1f09742664b859Fe095a8de7DdF890fe078",
+        "tokenSymbol": "TEST"
+      }
+    ],
+    "erc20Contracts": [
+      {
+        "contractName": "Test20",
+        "contractAddress": "7398D77B30300354f34Dc9EDA153998a63cF0087",
+        "tokenSymbol": "TEST"
+      },
+      {
+        "contractName": "Test20",
+        "contractAddress": "7398D77B30300354f34Dc9EDA153998a63cF0088",
+        "tokenSymbol": "TEST"
+      }
+    ]
+  }
+  
